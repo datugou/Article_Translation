@@ -1,5 +1,5 @@
 # 持续改进：它如何运作、如何掌握它
-
+_作者：**James Clear**_  
 _原文链接: <https://jamesclear.com/continuous-improvement>_
 
 ## 什么是持续改进
