@@ -14,7 +14,7 @@ _原文链接: <https://jamesclear.com/continuous-improvement>_
 爱上无聊的生活并不性感。
 提高百分之一不会成为头条新闻。
 
-但有一点：它是有效的:  
+但有一点：它是有效的。  
 ## 持续改进是如何发挥作用的
 
 很多时候，我们会说服自己，只有发生较大变化、或者肉眼可见的不同时，改变才有意义。
@@ -96,3 +96,5 @@ _原文链接: <https://jamesclear.com/continuous-improvement>_
 上周你做了什么？本周你如何才能提高一点点？
 
 阅读更多：‘[向后测量，而不是向前测量](https://jamesclear.com/measure-backward)’
+---
+[返回目录](https://github.com/datugou/Article_Translation/edit/master/LEARNING_data_science/README.md)
