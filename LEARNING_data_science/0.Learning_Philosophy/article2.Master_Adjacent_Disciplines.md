@@ -1,5 +1,5 @@
 # 掌握相邻学科
-_作者：Edmond Lau_  
+_作者：**Edmond Lau**_  
 _原文链接：<http://www.effectiveengineer.com/blog/master-adjacent-disciplines>_
 
 ---
