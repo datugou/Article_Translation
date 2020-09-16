@@ -98,4 +98,4 @@ _原文链接: <https://jamesclear.com/continuous-improvement>_
 阅读更多：‘[向后测量，而不是向前测量](https://jamesclear.com/measure-backward)’  
 
 ---
-[返回目录](https://github.com/datugou/Article_Translation/edit/master/LEARNING_data_science/README.md)
+[返回目录](https://github.com/datugou/Article_Translation/tree/master/LEARNING_data_science)
