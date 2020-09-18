@@ -6,19 +6,44 @@
 <div align=center><img src="https://s1.ax1x.com/2020/09/15/wyTxZq.png" width="500"></div>
 
 ### 学习理念
-- [x] [微小收益的力量](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/0.Learning_Philosophy/article1.The_Power_of_Tiny_Gains.md)  
+- [微小收益的力量](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/0.Learning_Philosophy/article1.The_Power_of_Tiny_Gains.md)  
     _原文_: [_The Power of Tiny Gains_](https://jamesclear.com/continuous-improvement)  
-- [x] [掌握相邻学科](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/0.Learning_Philosophy/article2.Master_Adjacent_Disciplines.md)  
+- [掌握相邻学科](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/0.Learning_Philosophy/article2.Master_Adjacent_Disciplines.md)  
     _原文_: [_Master Adjacent Disciplines_](http://www.effectiveengineer.com/blog/master-adjacent-disciplines)  
-- [x] [T型技能](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/0.Learning_Philosophy/article3.T-shaped_skills.md)  
+- [T型技能](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/0.Learning_Philosophy/article3.T-shaped_skills.md)  
     _原文_: [_T-shaped skills_](https://en.wikipedia.org/wiki/T-shaped_skills)  
-- [x] [数据科学家应更注重端对端](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/0.Learning_Philosophy/article4.Data_Scientists_Should_Be_More_End-to-End.md)  
+- [数据科学家应更注重端对端](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/0.Learning_Philosophy/article4.Data_Scientists_Should_Be_More_End-to-End.md)  
     _原文_: [_Data Scientists Should Be More End-to-End_](https://eugeneyan.com/writing/end-to-end-data-science/)  
 
 ### Develop a business acumen
-- [X] []()
-    _原文_: [Book: Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
-    - [X] [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
+
+> 本节所有书籍 [书] 均来自互联网公开资源  
+> 中文书籍来自- [**ePUBee电子书库**](http://cn.epubee.com/books/)  
+> 英文书籍来自- [**Library Genesis**](http://gen.lib.rus.ec/)
+
+- [书] [三双鞋-美捷步总裁谢家华自述](http://cn.epubee.com/books/?s=JUU5JTlFJThCMyUyNCVFNCVCOCU4OSVFNSU4RiU4QyUyMw)  
+    _原版: [Book: Delivering Happiness](http://80.82.78.35/get.php?md5=f0e134286199dc5d85ac1a813d97fbc9&key=62RQP0G6JRWRF51E)_  
+- [书] [从优秀到卓越](http://cn.epubee.com/books/?s=JUVGJUJDJTg5OCUyNCVFNCVCQiU4RSVFNCVCQyU5OCVFNyVBNyU4MCVFNSU4OCVCMCVFNSU4RCU5MyVFOCVCNiU4QSglRTclOEYlOEQlRTglOTclOEYlRTclODklODgpJUVGJUJDJTg4JUU1JUFFJThDJUU2JTk1JUI0JUU1JTlCJUJFJUU2JTk2JTg3JUU3JTg5JTg4JTIz)  
+    _原版: [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't](http://80.82.78.35/get.php?md5=c4d04061ac11deec99f469ef93ccfc91&key=95BRHDOHQSN3OZAH&mirr=1)_  
+- [书] []()  
+    _原版: []()_  
+- [书] []()  
+    _原版: []()_  
+- [书] []()  
+    _原版: []()_  
+- [书] []()  
+    _原版: []()_  
+- [书] []()  
+    _原版: []()_      
+- [书] []()  
+    _原版: []()_  
+- [书] []()  
+    _原版: []()_  
+- [书] []()  
+    _原版: []()_  
+- [书] []()  
+    _原版: []()_  
+    
     - [X] [Book: Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.amazon.com/Hello-Startup-Programmers-Building-Technologies/dp/1491909900)
     - [X] [Book: How Google Works](https://www.howgoogleworks.net)
     - [X] [Book: Learn to Earn: A Beginner's Guide to the Basics of Investing and Business](https://www.goodreads.com/book/show/817589.Learn_to_Earn)
