@@ -18,7 +18,7 @@
 ### 培养商业头脑
 
 > 本节所有书籍 [书] 均来自互联网公开资源  
-> 中文书籍来自- [**ePUBee电子书库**](http://cn.epubee.com/books/) -（每天可以免费存3本书）、- [鸠摩搜索] -(https://www.jiumodiary.com/)  
+> 中文书籍来自- [**ePUBee电子书库**](http://cn.epubee.com/books/) -（每天可以免费存3本书）、- [鸠摩搜索](https://www.jiumodiary.com/) -  
 > 英文书籍来自- [**Library Genesis**](http://gen.lib.rus.ec/) -
 
 - [书] [三双鞋-美捷步总裁谢家华自述](http://cn.epubee.com/books/?s=JUU5JTlFJThCMyUyNCVFNCVCOCU4OSVFNSU4RiU4QyUyMw)  
