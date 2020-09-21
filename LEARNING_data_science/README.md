@@ -138,35 +138,35 @@
 ### 数据道德规范
 ### 有效地对数据进行注释
 ### <a id="Numpy">用 Numpy 处理数据</a>
-### 用 Pandas 处理数据
+### <a id="Pandas">用 Pandas 处理数据</a>
 ### 在电子表格中处理数据
 ### 在数据库中处理数据
 ### 使用命令行
 ### 从多种来源导入数据
 ### 特征工程
-### 在 Notebook 中做实验
+### <a id="Notebook">在 Notebook 中做实验</a>
 ### 数据可视化
 ### 阅读研究论文
 ### 数学建模
 ### 构建机器学习项目
 ### 版本控制
 ### 熟悉各种模型和算法
-### 在 scikit-learn 中实现模型
-### 在 Tensorflow 和 Keras 中实现模型
-### 在 PyTorch 中实现模型
+### <a id="scikit-learn">在 scikit-learn 中实现模型</a>
+### <a id="Tensorflow_Keras">在 Tensorflow 和 Keras 中实现模型</a>
+### <a id="PyTorch">在 PyTorch 中实现模型</a>
 ### 无监督学习算法
 ### 实现机器视觉模型
-### 实现 NLP 模型
+### <a id="NLP">实现 NLP 模型</a>
 ### 对图形和网格数据建模
 ### 实现时间序列和预测模型
 ### 强化学习
-### 云上托管的 ML 服务
+### <a id="cloud_ML">云上托管的 ML 服务</a>
 ### 优化性能指标
 ### 优化生产模型
 ### 把模型部署到生产环境中
-### A/B 测试
+### <a id="A/B">A/B 测试</a>
 ### 单元测试
-### 精通 Python
+### <a id="Python">精通 Python</a>
 ### 编译语言
 ### 堆栈的其他部分
 ### 计算机科学基础概念
