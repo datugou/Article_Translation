@@ -90,8 +90,7 @@
     _原版: []()_  
 - [书] []()  
     _原版: []()_  
-- [书] []()  
-    _原版: []()_  
+
 
 ---
 未完待续。。。。。。
@@ -167,6 +166,10 @@
 ### <a id="A/B">A/B 测试</a>
 ### 单元测试
 ### <a id="Python">精通 Python</a>
+- [ ] [ ]( )  
+    _原版: [ ]( )_  
+- [书] [简明 python 教程](http://cn.epubee.com/books/?s=JUU3JUE4JThCMCUyNCVFNyVBRSU4MCVFNiU5OCU4RVB5dGhvbiVFNiU5NSU5OSUyMw)  
+    _原版: [Book: A Byte of Python](https://python.swaroopch.com/)_  
 ### 编译语言
 ### 堆栈的其他部分
 ### 计算机科学基础概念
