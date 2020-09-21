@@ -15,6 +15,55 @@
 - [数据科学家应更注重端对端](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/0.Learning_Philosophy/article4.Data_Scientists_Should_Be_More_End-to-End.md)  
     _原文: [_Data Scientists Should Be More End-to-End_](https://eugeneyan.com/writing/end-to-end-data-science/)_  
 
+****
+## 目录
+* [培养商业头脑](#培养商业头脑)
+* [利用机器学习思维解决问题](#利用机器学习思维解决问题)
+* [数据道德规范](#数据道德规范)
+* [有效地对数据进行注释](#有效地对数据进行注释)
+* [用 Numpy 处理数据](#用 Numpy 处理数据) 
+* [用 Pandas 处理数据](#用 Pandas 处理数据)
+* [在电子表格中处理数据](#在电子表格中处理数据)
+* [在数据库中处理数据](#在数据库中处理数据)
+* [使用命令行](#使用命令行) 
+* [从多种来源导入数据](#从多种来源导入数据)
+* [特征工程](#特征工程)
+* [在 Notebook 中做实验](#在 Notebook 中做实验)
+* [数据可视化](#数据可视化)
+* [阅读研究论文](#阅读研究论文)
+* [数学建模](#数学建模)
+* [构建机器学习项目](#构建机器学习项目)
+* [版本控制](#版本控制)
+* [熟悉各种模型和算法](#熟悉各种模型和算法)
+* [在 scikit-learn 中实现模型](#在 scikit-learn 中实现模型)
+* [在 Tensorflow 和 Keras 中实现模型](#在 Tensorflow 和 Keras 中实现模型)
+* [在 PyTorch 中实现模型](#在 PyTorch 中实现模型)
+* [无监督学习算法](#无监督学习算法)
+* [实现机器视觉模型](#实现机器视觉模型)
+* [实现 NLP 模型](#实现 NLP 模型)
+* [对图形和网格数据建模](#对图形和网格数据建模)
+* [实现时间序列和预测模型](#实现时间序列和预测模型)
+* [强化学习](#强化学习)
+* [云上托管的 ML 服务](#云上托管的 ML 服务)
+* [优化性能指标](#优化性能指标)
+* [优化生产模型](#优化生产模型)
+* [把模型部署到生产环境中](#把模型部署到生产环境中)
+* [A/B 测试](#A/B 测试)
+* [单元测试](#单元测试)
+* [精通 Python](#精通 Python)
+* [编译语言](#编译语言)
+* [堆栈的其他部分](#堆栈的其他部分)
+* [计算机科学基础概念](#计算机科学基础概念)
+* [软件工程流程](#软件工程流程)
+* [文本编辑器](#文本编辑器)
+* [沟通与合作](#沟通与合作)
+* [应聘流程](#应聘流程)
+* [拓展视野](#拓展视野)
+
+
+
+
+
 ### 培养商业头脑
 
 > 本节所有书籍 [书] 均来自互联网公开资源  
@@ -43,15 +92,18 @@
     _原版: []()_  
 - [书] []()  
     _原版: []()_  
+
+---
+未完待续。。。。。。
+
     
-    
-    - [X] [Facebook: Digital marketing: get started](https://learn.fb.com/skillset/marketing-started)
-    - [X] [Facebook: Digital marketing: go further](https://learn.fb.com/skillset/marketing-further)
-    - [X] [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/course/6)
+    - [ ] [Facebook: Digital marketing: get started](https://learn.fb.com/skillset/marketing-started)
+    - [ ] [Facebook: Digital marketing: go further](https://learn.fb.com/skillset/marketing-further)
+    - [ ] [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/course/6)
     - [ ] [Google: Fundamentals of Digital Marketing](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing)
-    - [X] [Moz: The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)
-    - [X] [Smartly: Marketing Fundamentals](https://smart.ly/course/abd47e21-4b59-4ccf-910d-fb1c18b2e9df)
-    - [X] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
+    - [ ] [Moz: The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)
+    - [ ] [Smartly: Marketing Fundamentals](https://smart.ly/course/abd47e21-4b59-4ccf-910d-fb1c18b2e9df)
+    - [ ] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
     - [ ] [Udacity: App Monetization](https://www.udacity.com/course/app-monetization--ud518)
     - [ ] [Udacity: App Marketing](https://www.udacity.com/course/app-marketing--ud719)
     - [ ] [Udacity: Get Your Startup Started](https://www.udacity.com/course/get-your-startup-started--ud806)
@@ -81,6 +133,49 @@
     - [ ] [Youtube: Webinars From The Future | Session One: Design Thinking](https://youtu.be/DDYo8Wmy60c)
     - [ ] [Youtube: Webinars From The Future | Session Two: Interaction Design](https://youtu.be/snUT7_XRW6Q)
     
-    
- ---
-    未完待续。。。。。。
+ 
+### 利用机器学习思维解决问题
+### 数据道德规范
+### 有效地对数据进行注释
+### 用 Numpy 处理数据
+### 用 Pandas 处理数据
+### 在电子表格中处理数据
+### 在数据库中处理数据
+### 使用命令行
+### 从多种来源导入数据
+### 特征工程
+### 在 Notebook 中做实验
+### 数据可视化
+### 阅读研究论文
+### 数学建模
+### 构建机器学习项目
+### 版本控制
+### 熟悉各种模型和算法
+### 在 scikit-learn 中实现模型
+### 在 Tensorflow 和 Keras 中实现模型
+### 在 PyTorch 中实现模型
+### 无监督学习算法
+### 实现机器视觉模型
+### 实现 NLP 模型
+### 对图形和网格数据建模
+### 实现时间序列和预测模型
+### 强化学习
+### 云上托管的 ML 服务
+### 优化性能指标
+### 优化生产模型
+### 把模型部署到生产环境中
+### A/B 测试
+### 单元测试
+### 精通 Python
+### 编译语言
+### 堆栈的其他部分
+### 计算机科学基础概念
+### 软件工程流程
+### 文本编辑器
+### 沟通与合作
+### 应聘流程
+### 拓展视野
+
+
+---
+未完待续。。。。。。
