@@ -241,7 +241,7 @@ Netflix Edge Engineering 项目最初为各个流程配有专门的角色。
 为了解决这个问题，Netflix 尝试了全周期开发人员，他们被授权在整个软件生命周期内工作。
 这就需要转变思维方式--开发人员不仅要考虑设计和开发，还要考虑部署和可靠性。
 
-<div align=center><img src="https://s1.ax1x.com/2020/09/16/wg2QTU.jpg"></div>
+<div align=center weight='600'><img src="https://s1.ax1x.com/2020/09/16/wg2QTU.jpg"></div>
 <div align=center><h6>不是多个角色和人员，我们现在有了全周期的开发人员</h6></div>
 
 为了支持全周期开发，中心团队建立了各种工具，以自动化和简化常见的开发流程（例如，构建和部署管道、监控、管理回滚）。
