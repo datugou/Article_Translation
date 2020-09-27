@@ -1,7 +1,7 @@
 # 不受欢迎的意见--数据科学家应该更注重端到端
 _作者：**Eugene Yan**_  
 _原文链接：<https://eugeneyan.com/writing/end-to-end-data-science/>_  
-`datascience` `machinelearning` `productivity` `career`
+`data science` `machine learning` `productivity` `career`
 
 ---
 最近，我看到一个Reddit帖子，是关于数据科学和机器学习的不同角色：
