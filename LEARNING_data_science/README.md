@@ -14,6 +14,9 @@
     _原文: [_T-shaped skills_](https://en.wikipedia.org/wiki/T-shaped_skills)_  
 - [数据科学家应更注重端对端](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/0.Learning_Philosophy/article4.Data_Scientists_Should_Be_More_End-to-End.md)  
     _原文: [_Data Scientists Should Be More End-to-End_](https://eugeneyan.com/writing/end-to-end-data-science/)_  
+- [即时学习](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/00.Learning_Philosophy/article05.What_is_the_Just_in_Time_Learning_Theory%3F.md)  
+    _原文: [_Just in Time Learning_](https://www.developgoodhabits.com/just-in-time-learning/)_  
+
 
 ****
 ## 目录
