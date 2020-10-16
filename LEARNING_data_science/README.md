@@ -140,8 +140,8 @@
 ### 数据道德规范
 ### 有效地对数据进行注释
 ### <a id="Numpy">用 Numpy 处理数据</a>
-- [article] [Numpy和数据展示的可视化介绍](http://www.junphy.com/wordpress/index.php/2019/10/24/visual-numpy/) [转].
-    _原版: [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)_  
+- [article] [Numpy和数据展示的可视化介绍](http://www.junphy.com/wordpress/index.php/2019/10/24/visual-numpy/) [转]  
+    _原文: [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)_  
 ### <a id="Pandas">用 Pandas 处理数据</a>
 ### 在电子表格中处理数据
 ### 在数据库中处理数据
