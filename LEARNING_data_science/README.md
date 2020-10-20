@@ -10,7 +10,7 @@
     原文: [The Power of Tiny Gains](https://jamesclear.com/continuous-improvement)  
 - [article] [掌握相邻学科](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/0.Learning_Philosophy/article2.Master_Adjacent_Disciplines.md)  
     原文: [Master Adjacent Disciplines](http://www.effectiveengineer.com/blog/master-adjacent-disciplines)  
-- [article] [T型技能](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/0.Learning_Philosophy/article3.T-shaped_skills.md)  
+- [wiki] [T型技能](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/0.Learning_Philosophy/article3.T-shaped_skills.md)  
     原文: [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills)  
 - [article] [数据科学家应更注重端对端](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/0.Learning_Philosophy/article4.Data_Scientists_Should_Be_More_End-to-End.md)  
     原文: [Data Scientists Should Be More End-to-End](https://eugeneyan.com/writing/end-to-end-data-science/)  
