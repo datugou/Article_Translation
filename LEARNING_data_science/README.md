@@ -7,15 +7,15 @@
 
 ### 学习理念
 - [article] [微小收益的力量](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/0.Learning_Philosophy/article1.The_Power_of_Tiny_Gains.md)  
-    原文: [_The Power of Tiny Gains_](https://jamesclear.com/continuous-improvement)  
+    原文: [The Power of Tiny Gains](https://jamesclear.com/continuous-improvement)  
 - [article] [掌握相邻学科](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/0.Learning_Philosophy/article2.Master_Adjacent_Disciplines.md)  
-    原文: [_Master Adjacent Disciplines_](http://www.effectiveengineer.com/blog/master-adjacent-disciplines)  
+    原文: [Master Adjacent Disciplines](http://www.effectiveengineer.com/blog/master-adjacent-disciplines)  
 - [article] [T型技能](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/0.Learning_Philosophy/article3.T-shaped_skills.md)  
-    原文: [_T-shaped skills_](https://en.wikipedia.org/wiki/T-shaped_skills)  
+    原文: [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills)  
 - [article] [数据科学家应更注重端对端](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/0.Learning_Philosophy/article4.Data_Scientists_Should_Be_More_End-to-End.md)  
-    原文: [_Data Scientists Should Be More End-to-End_](https://eugeneyan.com/writing/end-to-end-data-science/)  
+    原文: [Data Scientists Should Be More End-to-End](https://eugeneyan.com/writing/end-to-end-data-science/)  
 - [article] [即时学习](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/00.Learning_Philosophy/article05.What_is_the_Just_in_Time_Learning_Theory%3F.md)  
-    原文: [_Just in Time Learning_](https://www.developgoodhabits.com/just-in-time-learning/)  
+    原文: [Just in Time Learning](https://www.developgoodhabits.com/just-in-time-learning/)  
 
 
 ****
