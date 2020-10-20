@@ -7,15 +7,15 @@
 
 ### 学习理念
 - [article] [微小收益的力量](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/0.Learning_Philosophy/article1.The_Power_of_Tiny_Gains.md)  
-    _原文: [_The Power of Tiny Gains_](https://jamesclear.com/continuous-improvement)_  
+    原文: [_The Power of Tiny Gains_](https://jamesclear.com/continuous-improvement)  
 - [article] [掌握相邻学科](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/0.Learning_Philosophy/article2.Master_Adjacent_Disciplines.md)  
-    _原文: [_Master Adjacent Disciplines_](http://www.effectiveengineer.com/blog/master-adjacent-disciplines)_  
+    原文: [_Master Adjacent Disciplines_](http://www.effectiveengineer.com/blog/master-adjacent-disciplines)  
 - [article] [T型技能](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/0.Learning_Philosophy/article3.T-shaped_skills.md)  
-    _原文: [_T-shaped skills_](https://en.wikipedia.org/wiki/T-shaped_skills)_  
+    原文: [_T-shaped skills_](https://en.wikipedia.org/wiki/T-shaped_skills)  
 - [article] [数据科学家应更注重端对端](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/0.Learning_Philosophy/article4.Data_Scientists_Should_Be_More_End-to-End.md)  
-    _原文: [_Data Scientists Should Be More End-to-End_](https://eugeneyan.com/writing/end-to-end-data-science/)_  
+    原文: [_Data Scientists Should Be More End-to-End_](https://eugeneyan.com/writing/end-to-end-data-science/)  
 - [article] [即时学习](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/00.Learning_Philosophy/article05.What_is_the_Just_in_Time_Learning_Theory%3F.md)  
-    _原文: [_Just in Time Learning_](https://www.developgoodhabits.com/just-in-time-learning/)_  
+    原文: [_Just in Time Learning_](https://www.developgoodhabits.com/just-in-time-learning/)  
 
 
 ****
@@ -74,25 +74,25 @@
 > 英文书籍来自- [**Library Genesis**](http://gen.lib.rus.ec/) -
 
 - [book] [三双鞋-美捷步总裁谢家华自述](http://cn.epubee.com/books/?s=JUU5JTlFJThCMyUyNCVFNCVCOCU4OSVFNSU4RiU4QyUyMw)  
-    _原版: [Book: Delivering Happiness](http://80.82.78.35/get.php?md5=f0e134286199dc5d85ac1a813d97fbc9&key=62RQP0G6JRWRF51E)_  
+    原书: [Book: Delivering Happiness](http://80.82.78.35/get.php?md5=f0e134286199dc5d85ac1a813d97fbc9&key=62RQP0G6JRWRF51E)  
 - [book] [从优秀到卓越](http://cn.epubee.com/books/?s=JUVGJUJDJTg5OCUyNCVFNCVCQiU4RSVFNCVCQyU5OCVFNyVBNyU4MCVFNSU4OCVCMCVFNSU4RCU5MyVFOCVCNiU4QSglRTclOEYlOEQlRTglOTclOEYlRTclODklODgpJUVGJUJDJTg4JUU1JUFFJThDJUU2JTk1JUI0JUU1JTlCJUJFJUU2JTk2JTg3JUU3JTg5JTg4JTIz)  
-    _原版: [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't](http://80.82.78.35/get.php?md5=c4d04061ac11deec99f469ef93ccfc91&key=95BRHDOHQSN3OZAH&mirr=1)_  
+    原书: [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't](http://80.82.78.35/get.php?md5=c4d04061ac11deec99f469ef93ccfc91&key=95BRHDOHQSN3OZAH&mirr=1)  
 - [book] [奔跑吧，程序员：从零开始打造产品、技术和团队](http://cn.epubee.com/books/?s=JUU5JTk4JTlGMyUyNCUyMCVFNSVBNSU5NCVFOCVCNyU5MSVFNSU5MCVBNyVFRiVCQyU4QyVFNyVBOCU4QiVFNSVCQSU4RiVFNSU5MSU5OCVFRiVCQyU5QSVFNCVCQiU4RSVFOSU5QiVCNiVFNSVCQyU4MCVFNSVBNyU4QiVFNiU4OSU5MyVFOSU4MCVBMCVFNCVCQSVBNyVFNSU5MyU4MSVFMyU4MCU4MSVFNiU4QSU4MCVFNiU5QyVBRiVFNSU5MiU4QyVFNSU5QiVBMiUyMw)  
-    _原版: [Book: Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](http://80.82.78.35/get.php?md5=acdf4a04709271450acdde175c88f999&key=IAGNBN4D8P0U2EKH&mirr=1)_  
+    原书: [Book: Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](http://80.82.78.35/get.php?md5=acdf4a04709271450acdde175c88f999&key=IAGNBN4D8P0U2EKH&mirr=1)  
 - [book] [重新定义公司:谷歌是如何运营的](http://cn.epubee.com/books/?s=JUU3JTlBJTg0NSUyNCVFOSU4NyU4RCVFNiU5NiVCMCVFNSVBRSU5QSVFNCVCOSU4OSVFNSU4NSVBQyVFNSU4RiVCOCUzQSVFOCVCMCVCNyVFNiVBRCU4QyVFNiU5OCVBRiVFNSVBNiU4MiVFNCVCRCU5NSVFOCVCRiU5MCVFOCU5MCVBNSUyMw)  
-    _原版: [Book: How Google Works](http://80.82.78.35/get.php?md5=3459366adb216cd656912027f6ec1ed4&key=QQASI3ZM1G1EA6YC)_  
+    原书: [Book: How Google Works](http://80.82.78.35/get.php?md5=3459366adb216cd656912027f6ec1ed4&key=QQASI3ZM1G1EA6YC)  
 - [book] [彼得·林奇教你理财](http://cn.epubee.com/books/?s=JUVGJUJDJTg5NCUyNCVFNSVCRCVCQyVFNSVCRSU5NyVDMiVCNyVFNiU5RSU5NyVFNSVBNSU4NyVFNiU5NSU5OSVFNCVCRCVBMCVFNyU5MCU4NiVFOCVCNCVBMiVFRiVCQyU4OCVFNSU4NSVCOCVFOCU5NyU4RiVFNyU4OSU4OCUyMw)  
-    _原版: [Book: Learn to Earn: A Beginner's Guide to the Basics of Investing and Business](http://80.82.78.35/get.php?md5=e8627a02c870a3097c8cc20ad4db9ad3&key=4JVL6XDOJS9GZYGY&mirr=1)_  
+    原书: [Book: Learn to Earn: A Beginner's Guide to the Basics of Investing and Business](http://80.82.78.35/get.php?md5=e8627a02c870a3097c8cc20ad4db9ad3&key=4JVL6XDOJS9GZYGY&mirr=1)  
 - [book] [重塑工作](http://cn.epubee.com/books/?s=JUU0JUJEJTlDNCUyNCVFOSU4NyU4RCVFNSVBMSU5MSVFNSVCNyVBNSUyMw)  
-    _原版: [Book: Rework](http://80.82.78.35/get.php?md5=0e22faca3b6f4ab9ddef4968188a7f99&key=FHKQWST3DRXNDVWF&mirr=1)_  
+    原书: [Book: Rework](http://80.82.78.35/get.php?md5=0e22faca3b6f4ab9ddef4968188a7f99&key=FHKQWST3DRXNDVWF&mirr=1)  
 - [book] [爱彼迎传](http://cn.epubee.com/books/?s=JUU0JUJDJUEwNCUyNCVFNyU4OCVCMSVFNSVCRCVCQyVFOCVCRiU4RSUyMw)  
-    _原版: [Book: The Airbnb Story](http://80.82.78.35/get.php?md5=c136f43fe288809095ea76abaa5c8755&key=KLD9PCFVNDRHJ5WS&mirr=1)_      
+    原书: [Book: The Airbnb Story](http://80.82.78.35/get.php?md5=c136f43fe288809095ea76abaa5c8755&key=KLD9PCFVNDRHJ5WS&mirr=1)      
 - [book] [在家就能读MBA]()  
-    _原版: [Book: The Personal MBA](http://80.82.78.35/get.php?md5=8bc6bc5cf1263e881656e0bfbb2fc644&key=UQUCSCFEI2VE1CL2&mirr=1)_  
+    原书: [Book: The Personal MBA](http://80.82.78.35/get.php?md5=8bc6bc5cf1263e881656e0bfbb2fc644&key=UQUCSCFEI2VE1CL2&mirr=1)  
 - [book] []()  
-    _原版: []()_  
+    原书: []()  
 - [book] []()  
-    _原版: []()_  
+    原书: []()  
 
 
 
@@ -103,7 +103,7 @@
 ### 有效地对数据进行注释
 ### <a id="Numpy">用 Numpy 处理数据</a>
 - [article] [Numpy和数据展示的可视化介绍](http://www.junphy.com/wordpress/index.php/2019/10/24/visual-numpy/) [转]  
-    _原文: [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)_  
+    原文: [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)  
 ### <a id="Pandas">用 Pandas 处理数据</a>
 ### 在电子表格中处理数据
 ### 在数据库中处理数据
@@ -134,9 +134,9 @@
 ### 单元测试
 ### <a id="Python">精通 Python</a>
 - [ ] [ ]( )  
-    _原版: [ ]( )_  
+    原版: [ ]( )  
 - [book] [简明 python 教程](http://cn.epubee.com/books/?s=JUU3JUE4JThCMCUyNCVFNyVBRSU4MCVFNiU5OCU4RVB5dGhvbiVFNiU5NSU5OSUyMw)  
-    _原版: [Book: A Byte of Python](https://python.swaroopch.com/)_  
+    原版: [Book: A Byte of Python](https://python.swaroopch.com/)  
 ### 编译语言
 ### 堆栈的其他部分
 ### 计算机科学基础概念
