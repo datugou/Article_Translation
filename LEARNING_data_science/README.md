@@ -88,7 +88,7 @@
 
 ### 数据道德规范
 ### 有效地对数据进行注释
-- [article] [创建合成图像数据集--“What”、“Why”、“How”](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/04.Be_able_to_annotate_data_efficiently/article01.Create_A_Synthetic_Image_Dataset—The_“What”,The_“Why”_and_The_“How”.md)
+- [article] [译] [创建合成图像数据集--“What”、“Why”、“How”](https://github.com/datugou/Article_Translation/blob/master/LEARNING_data_science/04.Be_able_to_annotate_data_efficiently/article01.Create_A_Synthetic_Image_Dataset—The_“What”,The_“Why”_and_The_“How”.md)
 
 ### <a id="Numpy">用 Numpy 处理数据</a>
 - [article] [转] [Numpy和数据展示的可视化介绍](http://www.junphy.com/wordpress/index.php/2019/10/24/visual-numpy/) 
