@@ -169,8 +169,8 @@ plt.show()
 
 我将使用这 4 张图片作为本教程的背景。
 
-<div align=center><img src="https://miro.medium.com/max/445/1*mpMLx15hPqAHDU1bkuvJyQ.jpeg"><img src="https://miro.medium.com/max/556/1*TiQ1FB0vptOquWzpC7KF3w.jpeg"></div>
-<div align=center><img src="https://miro.medium.com/max/500/1*mST_Z7tuAw3CMuNY_zs3DA.jpeg"><img src="https://miro.medium.com/max/500/1*3nSep1xlNcrnaEARSP2iwA.jpeg"></div>
+<div align=center><img src="https://miro.medium.com/max/445/1*mpMLx15hPqAHDU1bkuvJyQ.jpeg"> <img src="https://miro.medium.com/max/556/1*TiQ1FB0vptOquWzpC7KF3w.jpeg"></div>
+<div align=center><img src="https://miro.medium.com/max/500/1*mST_Z7tuAw3CMuNY_zs3DA.jpeg"> <img src="https://miro.medium.com/max/500/1*3nSep1xlNcrnaEARSP2iwA.jpeg"></div>
 
 我们用随机的方式挑选背景图。
 
