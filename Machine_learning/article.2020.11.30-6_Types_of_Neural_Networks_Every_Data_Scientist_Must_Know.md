@@ -100,7 +100,7 @@ CNN 的卷积层是它与其他神经网络的区别。
 然而，循环神经网络（俗称 RNN）是一种可以为我们做到这一点的神经网络，这使得它们对于需要使用过去数据的应用非常有用。
 下面我们就来仔细了解一下 RNN。
 
-<div align=center><img src="https://lionbridge.ai/wp-content/uploads/2020/11/05-3.png" width = '700'></div>
+<div align=center><img src="https://lionbridge.ai/wp-content/uploads/2020/11/05-2.png" width = '700'></div>
 <div align=center><h6>图 5：RNN 的基本工作原理</h6></div>
 
 循环神经网络是被设计用来解释时间或序列信息的网络。
@@ -123,7 +123,7 @@ LSTMs 是 RNNs 的一个特例，它可以做到这一点。
 它具有与 RNNs 相同的链状结构，但具有不同的重复模块结构。
 这种重复模块结构使得网络可以保留更多的之前阶段的值。
 
-<div align=center><img src="https://lionbridge.ai/wp-content/uploads/2020/11/06-3.png" width = '700'></div>
+<div align=center><img src="https://lionbridge.ai/wp-content/uploads/2020/11/06-2.png" width = '700'></div>
 <div align=center><h6>图 6：LSTM 网络的样子</h6></div>
 
 ### 应用
@@ -141,7 +141,7 @@ LSTMs 是 RNNs 的一个特例，它可以做到这一点。
 把这种关系想象成警察和强盗的关系。
 两者总是想胜过对方，强盗要偷东西，而警察要抓强盗。
 
-<div align=center><img src="https://lionbridge.ai/wp-content/uploads/2020/11/07-3.png" width = '700'></div>
+<div align=center><img src="https://lionbridge.ai/wp-content/uploads/2020/11/07-1.png" width = '700'></div>
 <div align=center><h6>图 7：生成式对抗网络的架构</h6></div>
 
 使用生成器，我们首先创建随机的噪声样本，并将它们通过判别器。
