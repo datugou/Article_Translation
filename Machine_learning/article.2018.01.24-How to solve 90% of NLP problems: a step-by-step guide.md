@@ -1,4 +1,4 @@
-# 如何解决 90% 的 NLP 问题：分布指南
+# 如何解决 90% 的 NLP 问题：分步指南
 _作者：[**Emmanuel Ameisen**](https://mlpowered.com/about/)_  
 _原文链接：<https://mlpowered.com/posts/how-to-solve-90-nlp/>_  
 _2018 年 1 月 24 日_  
@@ -26,7 +26,7 @@ NLP 每天都在产生新的和令人兴奋的结果，是一个非常大的领�
 - 开始建立简单的模型，必要时过渡到深度学习
 - 解释和理解你的模型，以确保你确实捕捉到了有用信息，而不是噪音
 
-我们写这篇文章是作为一个分布指南；它也可以作为高效标准方法的高层次概述。
+我们写这篇文章是作为一个分步指南；它也可以作为高效标准方法的高层次概述。
 
 **这篇文章附有一个[交互式笔记本](https://github.com/hundredblocks/concrete_NLP_tutorial/blob/master/NLP_notebook.ipynb)，演示和应用所有这些技术。
 欢迎运行代码，并跟随我们的脚步!**
