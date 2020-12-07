@@ -77,7 +77,7 @@ NLP 每天都在产生新的和令人兴奋的结果，是一个非常大的领�
 机器学习模型采用数值作为输入。
 例如，在图像上工作的模型会接收一个矩阵，代表每个颜色通道中每个像素的强度。
 
-<div align=center><img src="https://www.mlpowered.com/images/image_matrix.png"></div>
+<div align=center><img src="https://www.mlpowered.com/images/image_matrix.png" width = '700'></div>
 <div align=center><h6>以数字矩阵表示的笑脸。</h6></div>
 
 我们的数据集是一个句子的列表，所以为了让我们的算法从数据中提取模式，我们首先需要找到一种我们的算法能够理解的方式来表示它，即作为一个数字列表。
@@ -93,7 +93,7 @@ NLP 每天都在产生新的和令人兴奋的结果，是一个非常大的领�
 这被称为**词袋模型**，因为它是一种完全忽略我们句子中单词顺序的表示方法。
 如下图所示。
 
-<div align=center><img src="https://www.mlpowered.com/images/bow.png"></div>
+<div align=center><img src="https://www.mlpowered.com/images/bow.png" width = '700'></div>
 <div align=center><h6>将句子表示为一个词袋。左边是句子，右边是表示法。向量中的每个索引都代表一个特定的单词。</h6></div>
 
 ### 嵌入的可视化
@@ -104,7 +104,7 @@ NLP 每天都在产生新的和令人兴奋的结果，是一个非常大的领�
 由于词汇表通常非常大，在 20,000 个维度上可视化数据是不可能的，所以像 [PCA](https://en.wikipedia.org/wiki/Principal_component_analysis) 这样的技术将帮助我们把数据投射到两个维度上。
 如下图所示。
 
-<div align=center><img src="https://www.mlpowered.com/images/bow.png"></div>
+<div align=center><img src="https://www.mlpowered.com/images/bow.png" width = '700'></div>
 <div align=center><h6>可视化词袋模型嵌入。</h6></div>
 
 两类数据看起来并没有很好的分离，这可能是我们嵌入的整体特征，或者仅仅是我们数据降维之后的特征。
@@ -129,7 +129,7 @@ NLP 每天都在产生新的和令人兴奋的结果，是一个非常大的领�
 将这些信息可视化的一个好方法是使用[混淆矩阵](https://en.wikipedia.org/wiki/Confusion_matrix)，它将我们的模型做出的预测与真实标签进行比较。
 理想情况下，矩阵应该是一条从左上到右下的对角线（我们的预测与真实情况完全匹配）。
 
-<div align=center><img src="https://www.mlpowered.com/images/confusion_matrix_bow.png"></div>
+<div align=center><img src="https://www.mlpowered.com/images/confusion_matrix_bow.png" width = '700'></div>
 <div align=center><h6>混乱矩阵（绿色为高比例，蓝色为低比例）。</h6></div>
 
 我们的分类器预测的假阴性比假阳性多（按比例）。
@@ -142,7 +142,7 @@ NLP 每天都在产生新的和令人兴奋的结果，是一个非常大的领�
 这里我们绘制了灾难类和不相关类的最重要的词。
 使用词袋法和逻辑回归的分类器，为其绘制单词重要性图标很简单，因为我们只需提取模型用于预测的系数并进行排序即可。
 
-<div align=center><img src="https://www.mlpowered.com/images/bow_importance.png"></div>
+<div align=center><img src="https://www.mlpowered.com/images/bow_importance.png" width = '700'></div>
 <div align=center><h6>词袋法：单词重要性</h6></div>
 
 我们的分类器正确地挑选了一些模式（广岛 hiroshima，大屠杀 massacre），但显然在一些无意义的词汇上似乎过度拟合（heyoo，x1392）。
@@ -156,7 +156,7 @@ NLP 每天都在产生新的和令人兴奋的结果，是一个非常大的领�
 TF-IDF 根据单词在我们的数据集中的罕见程度来权衡单词，剔除那些过于频繁、只是增加噪音的词。
 这里是我们新嵌入的 PCA 投影。
 
-<div align=center><img src="https://www.mlpowered.com/images/pca_tfidf.png"></div>
+<div align=center><img src="https://www.mlpowered.com/images/pca_tfidf.png" width = '700'></div>
 <div align=center><h6>可视化 TF-IDF 嵌入。</h6></div>
 
 我们可以在上面看到，两种颜色之间有了更清晰的区分。
@@ -168,7 +168,7 @@ TF-IDF 根据单词在我们的数据集中的罕见程度来权衡单词，剔�
 我们的模型是否已经开始拾取更多的重要词汇？
 如果我们在防止模型“作弊”的同时得到了更好的结果，那么我们可以真正认为这个模型是一个升级。
 
-<div align=center><img src="https://www.mlpowered.com/images/tfidf_importance.png"></div>
+<div align=center><img src="https://www.mlpowered.com/images/tfidf_importance.png" width = '700'></div>
 <div align=center><h6>TF-IDF：单词重要性</h6></div>
 
 它拾取的词汇看起来更相关了！
@@ -196,12 +196,12 @@ TF-IDF 根据单词在我们的数据集中的罕见程度来权衡单词，剔�
 一个快速获得我们分类器的句子嵌入的方法是平均我们句子中所有单词的 Word2Vec 分数。
 这和之前的词袋方法一样，但这次我们只丢失了句子的语法，同时保留了一些语义信息。
 
-<div align=center><img src="https://www.mlpowered.com/images/w2v.png"></div>
+<div align=center><img src="https://www.mlpowered.com/images/w2v.png" width = '700'></div>
 <div align=center><h6>Word2Vec 句子嵌入</h6></div>
 
 下面是我们使用以前的技术对新嵌入的可视化。
 
-<div align=center><img src="https://www.mlpowered.com/images/pca_w2v.png"></div>
+<div align=center><img src="https://www.mlpowered.com/images/pca_w2v.png" width = '700'></div>
 <div align=center><h6>可视化 Word2Vec 嵌入。</h6></div>
 
 这里的两组颜色看起来更加分离，我们的新嵌入应该可以帮助我们的分类器更好地区分这两个类别。
@@ -222,17 +222,17 @@ LIME 通过一个[开源包在 Github 上提供](https://github.com/marcotcr/lim
 
 让我们来看看我们数据集中的几个句子的解释。
 
-<div align=center><img src="https://www.mlpowered.com/images/correct_lime.png"></div>
+<div align=center><img src="https://www.mlpowered.com/images/correct_lime.png" width = '700'></div>
 <div align=center><h6>正确的灾难词被选取，以分类为“相关”。</h6></div>
 
-<div align=center><img src="https://www.mlpowered.com/images/incorrect_lime.png"></div>
+<div align=center><img src="https://www.mlpowered.com/images/incorrect_lime.png" width = '700'></div>
 <div align=center><h6>这里，单词对分类的贡献似乎不太明显。</h6></div>
 
 然而，我们没有时间去探索我们数据集中的数千个例子。
 我们要做的是在有代表性的测试案例样本上运行 LIME，看看哪些词一直作为强贡献者出现。
 使用这种方法，我们可以像之前的模型一样得到单词重要性分数，并验证我们模型的预测。
 
-<div align=center><img src="https://www.mlpowered.com/images/w2v_importance.png"></div>
+<div align=center><img src="https://www.mlpowered.com/images/w2v_importance.png" width = '700'></div>
 <div align=center><h6>Word2Vec：单词重要性</h6></div>
 
 看起来这个模型能拾取高度相关的词，意味着它似乎能做出可理解的决定。
@@ -245,7 +245,7 @@ LIME 通过一个[开源包在 Github 上提供](https://github.com/marcotcr/lim
 一个常见的方法是使用 Word2Vec 或类似的方法如 [GloVe](https://nlp.stanford.edu/projects/glove/) 或 [CoVe](https://arxiv.org/abs/1708.00107)，将一个**句子视为多个单词向量的序列**。
 这就是我们下面要做的。
 
-<div align=center><img src="https://www.mlpowered.com/images/cnn_architecture.png"></div>
+<div align=center><img src="https://www.mlpowered.com/images/cnn_architecture.png" width = '700'></div>
 <div align=center><h6>一个高效的端到端架构（[来源](https://arxiv.org/abs/1408.5882)）</h6></div>
 
 用于[句子分类的卷积神经网络](https://arxiv.org/abs/1408.5882)的训练速度非常快，并且作为入门级深度学习架构工作得很好。
