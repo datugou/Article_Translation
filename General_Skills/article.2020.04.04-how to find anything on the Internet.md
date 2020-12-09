@@ -170,12 +170,12 @@ site:campaign-archive.com + "blueapron" + ("coupon" | "referral code" | "affilia
 
 |操作|符描述|
 |-|-|
-|"phrase"|用 " 括住**搜索词**，结果必须包括**搜索词**
-|-phrase|用 - 加**搜索词**，排除带有**搜索词**的结果
+|"phrase"| " 括住**搜索词**，结果必须包括**搜索词**
+|-phrase| - 加**搜索词**，排除带有**搜索词**的结果
 |phrase1 AND phrase2|用 AND 连接搜索词
 |phrase1 OR phrase2|用 OR 连接搜索词
-|site:example.com|结果必须在域名 example.com 上
-|filetype:jpg|结果必须是 .jpg 类型的
+|site:example.com|site:**域名**，结果必须在域名 example.com 上
+|filetype:jpg|filetype:**格式**，结果必须是 .jpg 类型的
 
 AND/OR 逻辑词可以用来组合不同的查询
 ```
