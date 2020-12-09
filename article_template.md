@@ -10,5 +10,6 @@ _~~发表日期~~_
 <img src="https://s1.ax1x.com/2020/10/14/054e6e.png" alt="054e6e.png" border="0" />
 <div align=center><img src="https://s1.ax1x.com/2020/10/14/054e6e.png"></div>
 <div align=center><h6>在极端情况下，每个功能区/产品由7个人组成</h6></div>
+
 ---
-[返回目录](https://github.com/datugou/Article_Translation/tree/master/LEARNING_data_science)
+[返回目录](https://github.com/datugou/Article_Translation/README.md)
