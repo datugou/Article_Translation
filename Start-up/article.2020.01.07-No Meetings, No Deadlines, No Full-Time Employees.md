@@ -76,7 +76,7 @@ _2021 年 1 月 7 日_
 
 我们也以这种方式交付大型需求。
 
-2020 年 11 月，我们推出了 Gumroad Memberships（会员资格），这项工作已经进行了一年，现在已经帮助数百名创作者每月赚取超过 1,500,000 美元。
+2020 年 11 月，我们推出了 Gumroad Memberships（会员制），这项工作已经进行了一年，现在已经帮助数百名创作者每月赚取超过 1,500,000 美元。
 
 这是我们工作的一个路线图的截图，显示了实际情况：
 
@@ -95,8 +95,9 @@ Gumroad 工程师 Helen Hood 负责交付 Memberships，她说：
 
 <details>
 <summary>我们如何决定工作内容？</summary>
+ 
+## [我们如何决定工作内容？](https://www.notion.so/gumroad/How-do-we-decide-what-to-work-on-f2064b8ab16c4cbcac1077e16c8cf33b)
 
-  
 每个组织都在努力将他们的优先级排序过程和交付工作流程纳入一个结构化的流程。
 这也是我们正在尝试的。
 
@@ -125,7 +126,7 @@ Gumroad 工程师 Helen Hood 负责交付 Memberships，她说：
 技术债务问题和普通想法一样归档，但移到特定栏目下，在自己的队列中处理。
 任何人都可以将这些直接归档到这里。
 
-**Bugs**
+**BUG**
 
 一旦有创作者报告一个错误，我们就会将其归档。
 一旦有两个创作者报告了同一个 bug，我们就会把它移到队列的前面并优先修复它。
@@ -146,26 +147,92 @@ Gumroad 工程师 Helen Hood 负责交付 Memberships，她说：
     - 一个不可拆分的、独立的交付清单----我们交付的一切都要尽可能的小。
 - 我们**为什么**要构建它----这能为创作者解决什么问题？
 
-一旦一个想法回答了所有这些必要的问题，Sahil 或 Daniel 就会把它移到**准备添加到 GitHub** 栏目中，这是一个准备添加到 GitHub 但还没有被添加的东西的队列，因为目前还没有员工决定把它加入到自己的工作计划里。
+一旦一个想法回答了所有这些必要的问题，Sahil 或 Daniel 就会把它移到**准备添加到 GitHub** 栏目中，等待有工程师把它加入到自己的工作计划里。
+
+### 为什么会选择这个想法？
+
+有两个主要的因素，决定了我们选择什么。
+
+1. 我们有个大主题。你可以在我们的[路线图](https://www.notion.so/gumroad/Roadmap-ce2ad07c483046e7941227ad7810730d)中读到这一点。
+一般来说，更接近主题的想法会被选择。
+    - 例如，下个季度我们的主题可能是“春季大扫除”，所以能让产品体验更加“清洁”的东西会得到更多的重视。
+2. 每年我们都会有一个*主题的发布会*，比如：推出 Gumroad Memberships 会员制。
+这样便于倒排工期，决定渐进式的工作内容：
+    - 添加新产品流程
+    - 新产品编辑体验
+    - 提交产品
+    - 改良后的变种产品
+    - 产品的层级
+    - 新的订阅计费功能
+    - ...
+3. 直觉。每天结束的时候，在 Gumroad 中会产生很多想法，这就像艺术创造一样。
+有时我们会选择有趣的、感觉良好的内容去做！
+我们喜欢倾听创作者的意见！
+而不会做大量的数据分析来决定什么值得去做。
+
+### 交付产品
+
+工程师将新特性从**准备添加到 GitHub** 栏中移到 GitHub 上，并在任务中添加自己的注释，这样所有必要的上下文都在一个地方。
+
+现在，这个想法住在 GitHub 中，你可以在 Notion 中，把它从 **Icebox** 移到 **To launch**，这是另一个板块，用来通知设计师和内容团队该功能已经进入开发阶段。
+他们可以开始计划打磨和构建发布公告的材料（博客、邮件爆料、社交网、媒体等）。
+
+今后，交付产品属于工程师的责任。
+他们可以通过在 GitHub 中重新分配问题来改变负责人，但假设原来的工程师将完成构建功能的其余工作，一直到将产品交付到生产环境中。
+
+如果他们卡住了或者需要什么，应该在 GitHub 或 Slack 上提及问题来寻求帮助。
+如果别人的工作阻碍到你的进程，在文档中标记“_a”后缀来作为提醒，并将任务重新分配给他。
+当他解决完问题后，就会再重新分配给你！
 
 </details>
 
->"每天结束的时候，在 Gumroad 中会产生很多想法，这就像艺术创造一样。
+>“每天结束的时候，在 Gumroad 中会产生很多想法，这就像艺术创造一样。
 有时我们会选择有趣的、感觉良好的内容去做！
 我们喜欢倾听创作者的意见！
-而不会做大量的数据分析来决定什么值得去做。"
+而不会做大量的数据分析来决定什么值得去做。”
 
+<details>
+<summary>我们如何沟通？</summary>
+  
+## [我们如何沟通？](https://www.notion.so/How-do-we-communicate-06f2032bfdae4552a38149c99c68e3df)
 
+我们使用三个工具。Notion、Slack 和 GitHub。
+
+- Notion 用于我们的 Wiki 和[产品管理](https://www.notion.so/gumroad/How-do-we-decide-what-to-work-on-f2064b8ab16c4cbcac1077e16c8cf33b)。
+- GitHub 用于我们的代码库。
+- Slack 是用来管理其他的东西。这是我们“最接近实时”的方式。只要每天检查不少于一次就没什么问题。
+    - 这几个主题时为了通知你所有相关活动：包括 **#engineering-chatter** 、 **#releases** 和 **#infrastructure**。遇到服务器内部的错误请到 **#error** 中讨论。
+        - **#engineering-chatter**：我们聊天的地方！最重要的频道，加入并跟踪就对了。
+        - #**infrastructure**: 工程师们谈论基础设施的地方(AWS、宕机等内容)。
+    - #**support** 是客服支持团队用来为我们的平台上的创作者提供解答帮助的频道。
+    - 每周一，人们会在 **#updates-log** 中发布他们的工作内容。
+
+### 其他提示
+
+- **#design channel** 是一个很好的地方，可以看到设计师们在做什么。
+- 特定的产品频道，如 **#consumer-mobile-app**、 **#discover**、 **#library**。
+- 禁用 GitHub 的电子邮件，以减少通知的重复性。我们建议使用 **#engineering-chatter** 和 [GitHub.com](http://github.com) 或直接使用应用程序代替。
+- 禁用来自 CircleCI、New Relic、Bugsnag 的邮件。
+- 关闭手机的所有通知！
+
+</details>
+
+>“关闭手机的所有通知！”
+
+<details>
+<summary>在 Gumroad 工作有怎样的体验？</summary>
+  
+
+</details>
+
+>“我们循序渐进地、逐步迭代地交付产品，每年会有一次大规模的试探性产品发布。
+每个月都会看看创作者得到了多少报酬，然后继续前进。
+旅行的过程才是有趣的部分，我们并不是在期待到达某个目的地。”
 
 
 
 <div align=center><img src="https://sahillavingia.com/2018-earnings.png" width = '700'></div>
-<div align=center><img src="https://sahillavingia.com/2018-earnings.png" width = '700'></div>
 
-
-<img src="https://s1.ax1x.com/2020/10/14/054e6e.png" alt="054e6e.png" border="0" />
-<div align=center><img src="https://sahillavingia.com/2020-earnings.png"></div>
-<div align=center><h6>在极端情况下，每个功能区/产品由7个人组成</h6></div>
 
 ---
 [返回目录](https://github.com/datugou/Article_Translation/README.md)
