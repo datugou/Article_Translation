@@ -314,7 +314,7 @@ Gumroad 提供了第三种方式。
 
 2020 年，Sid 离开 Gumroad，与前 Gumroad 同事 [Rudy Santino](https://community.circle.so/u/45ef416b) 一起创办了自己的创客经济公司 [Circle](https://circle.so/)：
 
-<div align=center><img src="https://sahillavingia.com/2018-earnings.png" width = '700'></div>
+<div align=center><img src="https://s3.ax1x.com/2021/01/25/sLQ2Bn.png" width = '700'></div>
 
 在 Gumroad 工作的人，对于他们的个人身份而言，只是的一小部分。
 
@@ -350,7 +350,7 @@ Daniel 成为了我们新的产品负责人。
 他每周为我们工作十个小时。
 用他的话说：
 
-<div align=center><img src="https://sahillavingia.com/2018-earnings.png" width = '700'></div>
+<div align=center><img src="https://s3.ax1x.com/2021/01/25/sLQqBR.png" width = '700'></div>
 <div align=center><h6>Daniel Vassallo：这种趋势并不是为了减少工作而是让你赚的更多。</h6></div>
 <div align=center><h6>Sahil Lavingia：很高兴地宣布，我们已经取消了所有基于地理位置的薪酬！Gumroad 现在将付给你同样的薪水，无论你是住在旧金山、班加罗尔、拉各斯，还是其他任何地方。</h6></div>
 
@@ -360,7 +360,7 @@ Daniel 成为了我们新的产品负责人。
 
 最近，我在全球范围内统一了我们的付费标准：
 
-<div align=center><img src="https://sahillavingia.com/2018-earnings.png" width = '700'></div>
+<div align=center><img src="https://s3.ax1x.com/2021/01/25/sLQXAx.png" width = '700'></div>
 
 下面这个标准是在我们的面试过程中商定的：
 
@@ -421,4 +421,4 @@ Daniel 成为了我们新的产品负责人。
 我们的工作方式只是其中之一。
 
 ---
-[返回目录](https://github.com/datugou/Article_Translation/README.md)
+[返回目录](https://github.com/datugou/Article_Translation)
