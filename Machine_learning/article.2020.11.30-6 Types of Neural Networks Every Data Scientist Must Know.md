@@ -160,4 +160,4 @@ GAN 通常用于为游戏和动画电影创建卡通图像或面孔。
 我鼓励你在这个领域进行更多的探索，因为这里有大量的的不可思议的应用和许多正在进行的研究。
 
 ---
-[返回目录](https://github.com/datugou/Article_Translation/)
+[返回目录](https://github.com/datugou/Article_Translation)
