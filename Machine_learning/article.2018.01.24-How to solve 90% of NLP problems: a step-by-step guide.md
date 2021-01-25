@@ -268,4 +268,4 @@ LIME 通过一个[开源包在 Github 上提供](https://github.com/marcotcr/lim
 希望对你有所帮助，如果你有意见或问题，欢迎在 [Twitter 上联系作者](https://twitter.com/mlpowered)。
 
 ---
-[返回目录](https://github.com/datugou/Article_Translation/README.md)
+[返回目录](https://github.com/datugou/Article_Translation)
