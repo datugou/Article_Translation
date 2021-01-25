@@ -186,4 +186,4 @@ AND/OR 逻辑词可以用来组合不同的查询
 ```
 
 ---
-[返回目录](https://github.com/datugou/Article_Translation/tree/master/LEARNING_data_science)
+[返回目录](https://github.com/datugou/Article_Translation)
