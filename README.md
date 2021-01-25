@@ -6,7 +6,8 @@
 
 - 通用技巧
   - 搜索引擎搜索技巧
-
+- 创业
+  - 工作模式
 - Data Science
   - 机器学习
   - 深度学习
@@ -14,9 +15,14 @@
   - NLP
   - ......等
 
+
 ## 通用技巧
 ### 搜索引擎搜索技巧
 - [译] [（Google）如何在互联网上找到任何东西](https://github.com/datugou/Article_Translation/blob/master/General_Skills/article.2020.04.04-how%20to%20find%20anything%20on%20the%20Internet.md)
+
+## 创业
+### 工作模式
+- [译] [我创立了一家没有会议，没有 DeadLine，没有全职员工的公司](https://github.com/datugou/Article_Translation/blob/master/Start-up/article.2020.01.07-No%20Meetings,%20No%20Deadlines,%20No%20Full-Time%20Employees.md)
 
 ## Data Science
 ### 机器学习
