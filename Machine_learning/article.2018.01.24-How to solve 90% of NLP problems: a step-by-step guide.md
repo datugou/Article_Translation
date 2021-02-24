@@ -104,7 +104,7 @@ NLP 每天都在产生新的和令人兴奋的结果，是一个非常大的领�
 由于词汇表通常非常大，在 20,000 个维度上可视化数据是不可能的，所以像 [PCA](https://en.wikipedia.org/wiki/Principal_component_analysis) 这样的技术将帮助我们把数据投射到两个维度上。
 如下图所示。
 
-<div align=center><img src="https://www.mlpowered.com/images/bow.png" width = '700'></div>
+<div align=center><img src="https://www.mlpowered.com/images/pca_bow.png" width = '700'></div>
 <div align=center><h6>可视化词袋模型嵌入。</h6></div>
 
 两类数据看起来并没有很好的分离，这可能是我们嵌入的整体特征，或者仅仅是我们数据降维之后的特征。
