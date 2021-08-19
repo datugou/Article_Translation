@@ -25,7 +25,7 @@
 
 ## 爬虫技术
 ### requests
-- [译] [（Google）如何在互联网上找到任何东西](https://github.com/datugou/Article_Translation/blob/master/Crawler/article.2020.02.28-Advanced%20usage%20of%20Python%20requests%20-%20timeouts,%20retries,%20hooks.md)
+- [译] [Python requests 库的高级应用 - 超时、重试、钩子（timeouts、retries、hooks）](https://github.com/datugou/Article_Translation/blob/master/Crawler/article.2020.02.28-Advanced%20usage%20of%20Python%20requests%20-%20timeouts,%20retries,%20hooks.md)
 - 
 ## 创业
 ### 工作模式
